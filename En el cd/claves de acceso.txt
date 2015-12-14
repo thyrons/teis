@@ -1,0 +1,9 @@
+--Sistema--
+user: admin
+pass: admin
+
+--Direccion en localhost--
+http://localhost/gestion/data/login/
+
+---Dirección en la web----
+http://186.46.184.238/gestion/data/login/index.php
